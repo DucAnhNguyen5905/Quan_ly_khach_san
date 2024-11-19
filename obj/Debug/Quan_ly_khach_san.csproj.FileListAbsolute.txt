@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\Quan_ly_khach_san\obj\Debug\Quan_ly_khach_san.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Quan_ly_khach_san\obj\Debug\Quan_ly_khach_san.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Quan_ly_khach_san\bin\Debug\Quan_ly_khach_san.exe.config
+C:\Users\LENOVO\source\repos\Quan_ly_khach_san\bin\Debug\Quan_ly_khach_san.exe
+C:\Users\LENOVO\source\repos\Quan_ly_khach_san\bin\Debug\Quan_ly_khach_san.pdb
+C:\Users\LENOVO\source\repos\Quan_ly_khach_san\bin\Debug\ProcessData.dll
+C:\Users\LENOVO\source\repos\Quan_ly_khach_san\bin\Debug\ProcessData.pdb
+C:\Users\LENOVO\source\repos\Quan_ly_khach_san\obj\Debug\Quan_ly_.946E8669.Up2Date
+C:\Users\LENOVO\source\repos\Quan_ly_khach_san\obj\Debug\Quan_ly_khach_san.exe
+C:\Users\LENOVO\source\repos\Quan_ly_khach_san\obj\Debug\Quan_ly_khach_san.pdb
+C:\Users\LENOVO\source\repos\Quan_ly_khach_san\bin\Debug\Validate_Hotel.dll
+C:\Users\LENOVO\source\repos\Quan_ly_khach_san\bin\Debug\Validate_Hotel.pdb
